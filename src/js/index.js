@@ -1,3 +1,4 @@
+//tej linijki nie usuwamy
 import '../scss/main.scss';
 
 // uncomment the lines below to enable PWA
